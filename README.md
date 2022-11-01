@@ -13,4 +13,6 @@
 
 
 ## Processor: 
-* Pentium 4 or Athlon or later... ## [Read more](https://sites.google.com/a/install.barenot.com/install-turbotax-with-license-code)
+* Pentium 4 or Athlon or later... 
+
+## [Read more](https://sites.google.com/a/install.barenot.com/install-turbotax-with-license-code)
